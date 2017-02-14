@@ -1,3 +1,9 @@
+ignition-math2 (2.8.0-1~xenial) xenial; urgency=medium
+
+  * ignition-math2 2.8.0-1 release
+
+ -- Nate Koenig <nkoenig@osrfoundation.org>  Tue, 14 Feb 2017 14:54:57 -0800
+
 ignition-math2 (2.7.0-1~xenial) xenial; urgency=medium
 
   * ignition-math2 2.7.0-1 release
